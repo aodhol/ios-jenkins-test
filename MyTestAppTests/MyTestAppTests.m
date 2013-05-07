@@ -7,14 +7,25 @@
 //
 
 #import "MyTestAppTests.h"
+#import "MasterViewController.h"
+
+@interface MyTestAppTests()
+{
+    MasterViewController *controller;
+}
+
+@end
 
 @implementation MyTestAppTests
+
+
 
 - (void)setUp
 {
     [super setUp];
     
-    // Set-up code here.
+    controller = [[MasterViewController alloc] init];
+
 }
 
 - (void)tearDown
@@ -26,7 +37,7 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in MyTestAppTests");
+    STAssertNotNil(controller, @"This controller should be instantiatable");
 }
 
 @end

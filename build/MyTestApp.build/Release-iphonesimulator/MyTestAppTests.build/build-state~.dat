@@ -1,0 +1,171 @@
+TMyTestAppTests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/Info.plist MyTestAppTests/MyTestAppTests-Info.plist
+cProcessPCH /var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.pth MyTestApp/MyTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.o /Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTests normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c00000000517F975800000000000310B0
+t1367316312
+s200880
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000516C7B210000000000000110
+t1366063905
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000517F976D00000000003DDFA0
+t1367316333
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000517F976C00000000000015F7
+t1367316332
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000517F976F0000000000000E8D
+t1367316335
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000517F97700000000000AB6230
+t1367316336
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000517F97770000000000001B73
+t1367316343
+s7027
+
+N/Users/newsapps/Documents/MyTestApp/MyTestApp/MyTestApp-Prefix.pch
+c000000005189088C0000000000000141
+t1367935116
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests.m
+c0000000051890F330000000000000252
+t1367936819
+s594
+
+N/Users/newsapps/Documents/MyTestApp/MyTestAppTests/en.lproj/InfoPlist.strings
+c000000005189088C000000000000002D
+t1367935116
+s45
+
+N/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.LinkFileList
+c0000000051891B48000000000000008C
+t1367939912
+s140
+
+N/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.o
+t2
+s0
+
+N/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Script-91DAC9541739400C00793751.sh
+c0000000051891B480000000000000062
+t1367939912
+s98
+
+N/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest
+t2
+s0
+
+N/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest.dSYM
+t2
+s0
+
+N/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/Info.plist
+t2
+s0
+
+N/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTests
+t2
+s0
+
+N/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.pth
+t2
+s0
+
+NMyTestAppTests/MyTestAppTests-Info.plist
+c000000005189088C00000000000002AC
+t1367935116
+s684
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies036088c85239b741^526089c85239b741^---0#1#0#--18"Check dependencies36"95F4CAB6-65A8-4B34-89BD-21E3F2CCF87F-
+
+CCompileC build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.o /Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389632712.837154
+e389632712.907953
+r1
+xCompileC
+xbuild/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.o
+x/Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests.mc66bd6c85239b741^376fe8c85239b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests.m0000000000000000^3812"CompileC build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.o MyTestAppTests/MyTestAppTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsapps/Documents/MyTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-generated-files.hmap -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-own-target-headers.hmap -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-all-target-headers.hmap -iquote /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-project-headers.hmap -I/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/DerivedSources/i386 -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/DerivedSources -F/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch -MMD -MT dependencies -MF /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.d --serialize-diagnostics /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.dia -c /Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests.m -o /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.o36"32081198-67B8-4C10-B4DC-556D6B91215D-
+
+CCopyStringsFile /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/en.lproj/InfoPlist.strings MyTestAppTests/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest.dSYM /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTests
+r0
+
+CLd /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTests normal i386
+s389632712.914764
+e389632712.939386
+r0
+xLd
+x/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTests
+xnormal
+xi386
+oUndefined symbols for architecture i386:
+o  "_OBJC_CLASS_$_MasterViewController", referenced from:
+o      objc-class-ref in MyTestAppTests.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Link /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTestsc844eac85239b741^7578f0c85239b741^-265"Undefined symbols for architecture i386:  "_OBJC_CLASS_$_MasterViewController", referenced from:      objc-class-ref in MyTestAppTests.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@54""_OBJC_CLASS_$_MasterViewController", referenced from:-389632712#41#57#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@34"Objc-class-ref in MyTestAppTests.o-389632712#98#41#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-389632712#139#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-389632712#185#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--1532"Ld build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTests normal i386    cd /Users/newsapps/Documents/MyTestApp    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator -F/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Objects-normal/i386/MyTestAppTests.LinkFileList -bundle_loader /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestApp.app/MyTestApp -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/MyTestAppTests36"776B8E07-123A-4D56-B39F-80938521FC6D-
+
+CPhaseScriptExecution "Run Script" /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/Script-91DAC9541739400C00793751.sh
+r0
+
+CProcessInfoPlistFile /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/Info.plist MyTestAppTests/MyTestAppTests-Info.plist
+s389632712.541245
+e389632712.543995
+r1
+xProcessInfoPlistFile
+x/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/Info.plist
+xMyTestAppTests/MyTestAppTests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process MyTestAppTests/MyTestAppTests-Info.plist50a98ac85239b741^63438bc85239b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/newsapps/Documents/MyTestApp/MyTestAppTests/MyTestAppTests-Info.plist0000000000000000^612"ProcessInfoPlistFile build/Release-iphonesimulator/MyTestAppTests.octest/Info.plist MyTestAppTests/MyTestAppTests-Info.plist    cd /Users/newsapps/Documents/MyTestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility MyTestAppTests/MyTestAppTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest/Info.plist36"1D78BD12-DE99-4E55-97D8-576FAC3D318E-
+
+CProcessPCH /var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.pth MyTestApp/MyTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389632712.552020
+e389632712.830363
+r1
+xProcessPCH
+x/var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.pth
+xMyTestApp/MyTestApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile MyTestApp/MyTestApp-Prefix.pch0c748dc85239b741^2592d4c85239b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/newsapps/Documents/MyTestApp/MyTestApp/MyTestApp-Prefix.pch0000000000000000^3781"ProcessPCH /var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.pth MyTestApp/MyTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsapps/Documents/MyTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-generated-files.hmap -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-own-target-headers.hmap -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-all-target-headers.hmap -iquote /Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/MyTestAppTests-project-headers.hmap -I/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/DerivedSources/i386 -I/Users/newsapps/Documents/MyTestApp/build/MyTestApp.build/Release-iphonesimulator/MyTestAppTests.build/DerivedSources -F/Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.dia -c /Users/newsapps/Documents/MyTestApp/MyTestApp/MyTestApp-Prefix.pch -o /var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/21/xnw_yf4n7_lfkqwpn1jbdqyh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTestApp-Prefix-gywwlrlkeuufjmbtutligkpffxoc/MyTestApp-Prefix.pch.d36"CFE84CCB-3435-4246-A06C-1FB84937A9D9-
+
+CTouch /Users/newsapps/Documents/MyTestApp/build/Release-iphonesimulator/MyTestAppTests.octest
+r0
+
