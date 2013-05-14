@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MyTestAppTests.octest" tests="1" failures="0" errors="0" time="0.005085">
+	<testsuite name="MyTestAppTests" tests="1" failures="0" errors="0" time="0.005085" timestamp="2013-05-14T13:04:34GMT+01:00">
+		<testcase classname="MyTestAppTests" name="testExample" time="0.004871">
+		</testcase>
+	</testsuite>
+</testsuites>

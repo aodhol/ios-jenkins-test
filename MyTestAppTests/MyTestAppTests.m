@@ -18,8 +18,6 @@
 
 @implementation MyTestAppTests
 
-
-
 - (void)setUp
 {
     [super setUp];
@@ -38,6 +36,13 @@
 - (void)testExample
 {
     STAssertNotNil(controller, @"This controller should be instantiatable");
+}
+
+- (void)testFailing
+{
+    NSObject *myObj;
+    
+    STAssertNotNil(myObj, @"Nil");
 }
 
 @end

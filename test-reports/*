@@ -1,0 +1,25 @@
+=== TEST ===
+
+  xcodebuild build build
+    MyTestApp / MyTestApp (Debug)
+      ~ Check dependencies (62 ms)
+
+
+  xcodebuild build build
+    MyTestApp / MyTestApp (Debug)
+      ~ Check dependencies (58 ms)
+
+    MyTestApp / MyTestAppTests (Debug)
+      ~ Check dependencies (0 ms)
+      ~ Run custom shell script 'Run Script' (16 ms)
+
+
+  run-test MyTestAppTests.octest (iphonesimulator6.1, application-test, GC OFF)
+    [2013-05-14 13:03:39|Info] Installing '/Users/newsapps/Library/Developer/Xcode/DerivedData/MyTestApp-gsrcygkxwtpwyvbgmpwpbqfreyro/Build/Products/Debug-iphonesimulator/MyTestApp.app' ...
+    [2013-05-14 13:03:40|Info] Launching test host and running tests...
+    suite MyTestAppTests
+      ~ -[MyTestAppTests testExample] (4 ms)
+      1 of 1 tests passed (4 ms)
+
+** TEST SUCCEEDED: 1 of 1 tests passed ** (3445 ms)
+
