@@ -38,11 +38,11 @@
     STAssertNotNil(controller, @"This controller should be instantiatable");
 }
 
-- (void)testFailing
-{
-    NSObject *myObj;
-    
-    STAssertNotNil(myObj, @"Nil");
-}
+//- (void)testFailing
+//{
+//    NSObject *myObj;
+//    
+//    STAssertNotNil(myObj, @"Nil");
+//}
 
 @end
