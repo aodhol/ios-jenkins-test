@@ -416,6 +416,8 @@
 		91DAC9691739400C00793751 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
+				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTestApp/MyTestApp-Prefix.pch";
 				INFOPLIST_FILE = "MyTestApp/MyTestApp-Info.plist";
@@ -427,6 +429,8 @@
 		91DAC96A1739400C00793751 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
+				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTestApp/MyTestApp-Prefix.pch";
 				INFOPLIST_FILE = "MyTestApp/MyTestApp-Info.plist";
@@ -450,6 +454,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTestApp/MyTestApp-Prefix.pch";
 				INFOPLIST_FILE = "MyTestAppTests/MyTestAppTests-Info.plist";
+				OTHER_TEST_FLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				VALID_ARCHS = "armv7 armv7s i386";
@@ -472,6 +477,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTestApp/MyTestApp-Prefix.pch";
 				INFOPLIST_FILE = "MyTestAppTests/MyTestAppTests-Info.plist";
+				OTHER_TEST_FLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				VALID_ARCHS = "armv7 armv7s i386";
