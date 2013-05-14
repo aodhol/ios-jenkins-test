@@ -456,6 +456,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTestApp/MyTestApp-Prefix.pch";
 				INFOPLIST_FILE = "MyTestAppTests/MyTestAppTests-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				OTHER_TEST_FLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
@@ -481,6 +482,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTestApp/MyTestApp-Prefix.pch";
 				INFOPLIST_FILE = "MyTestAppTests/MyTestAppTests-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				OTHER_TEST_FLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
